@@ -1,0 +1,3 @@
+[submodule "pixelsim"]
+	path = pixelsim
+	url = https://github.com/ModEngine/pixelsim.git
